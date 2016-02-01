@@ -1,0 +1,23 @@
+.box{
+  width: 400px;
+  height: 400px;
+  border: solid 1px;
+
+}
+
+.clickable_button{
+  padding: 2px;
+  width: 100px;
+  margin-left: 4px;
+  height: 10%;
+  text-decoration: none;
+  border: solid 2px;
+  color: black;
+}
+
+
+#ta{
+  height: 90%;
+  width: inherit;
+  margin-bottom: 6px;
+}
